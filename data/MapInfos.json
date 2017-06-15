@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Equipment Shop","order":2,"parentId":0,"scrollX":1121.4545454545455,"scrollY":709.0909090909091},
+{"id":2,"expanded":true,"name":"Eagle's Crossing","order":1,"parentId":0,"scrollX":1121.4545454545455,"scrollY":709.0909090909091},
+{"id":3,"expanded":false,"name":"Pub","order":3,"parentId":0,"scrollX":813,"scrollY":521.25},
+{"id":4,"expanded":false,"name":"Magic Shop","order":4,"parentId":0,"scrollX":1858.2857142857142,"scrollY":1191.4285714285713},
+{"id":5,"expanded":false,"name":"Start","order":5,"parentId":0,"scrollX":1858.2857142857142,"scrollY":1191.4285714285713},
+{"id":6,"expanded":true,"name":"L1 Upper Catacombs","order":6,"parentId":0,"scrollX":1104,"scrollY":970.909090909091},
+{"id":7,"expanded":false,"name":"L2 Lower Catacombs","order":7,"parentId":0,"scrollX":1762.2857142857142,"scrollY":1114.2857142857142},
+{"id":8,"expanded":false,"name":"L3 The Cave","order":8,"parentId":0,"scrollX":1734.8571428571427,"scrollY":1141.7142857142856},
+{"id":9,"expanded":false,"name":"L4 Forest South","order":9,"parentId":0,"scrollX":2016,"scrollY":778},
+{"id":10,"expanded":false,"name":"L4 Pixie's Vale","order":10,"parentId":0,"scrollX":2056,"scrollY":1300},
+{"id":11,"expanded":false,"name":"L4 Pixie's Vale Interior","order":11,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"L5 Forest East","order":12,"parentId":0,"scrollX":2056,"scrollY":1300},
+{"id":13,"expanded":false,"name":"L5 Hidden Dewellings","order":13,"parentId":0,"scrollX":2056,"scrollY":1300},
+{"id":14,"expanded":false,"name":"L6 Ancient Temple","order":14,"parentId":0,"scrollX":1518,"scrollY":984}
+]
